@@ -393,7 +393,7 @@ h3.profile-title {
   }
   .responsive-header .profile-content {
     text-align: left;
-    margin-top: 30px;
+    margin-top: 0px;
     overflow: hidden;
   }
 }
