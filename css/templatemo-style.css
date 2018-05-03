@@ -289,7 +289,7 @@ hr {
   width: 23%;
   height: 100%;
   position: fixed;
-  background-color: #f7cdea;
+  background-color: #f2c6d2;
   color: black;
   overflow-y: hidden;
 }
@@ -341,13 +341,13 @@ h3.profile-title {
   font-size: 24px;
 }
 .main-navigation li a:hover {
-  background: #f7cdea;
+  background: #f2c6d2;
 }
 .main-navigation li a.active {
-  background: #f7cdea;
+  background: #f2c6d2;
 }
 .main-navigation li a.active:hover {
-  background: #f7cdea;
+  background: #f2c6d2;
 }
 
 .social-icons {
@@ -367,7 +367,7 @@ h3.profile-title {
 }
 
 .responsive-header {
-  background: #f7cdea;
+  background: #f2c6d2;
   text-align: center;
 }
 @media screen and (max-width: 992px) {
@@ -409,10 +409,10 @@ h3.profile-title {
     padding: 10px;
   }
   .main-navigation a.active {
-    background: #f7cdea !important;
+    background: #f2c6d2 !important;
   }
   .main-navigation a:hover {
-    background: #f7cdea !important;
+    background: #f2c6d2 !important;
   }
 }
 
@@ -421,7 +421,7 @@ h3.profile-title {
   display: block;
   padding: 20px;
   margin-top: 30px;
-  background: #f7cdea;
+  background: #f2c6d2;
   color: black;
   font-size: 18px;
 }
@@ -562,7 +562,7 @@ h3.profile-title {
 }
 .contact-form .button {
   width: auto;
-  background: #f7cdea;
+  background: #f2c6d2;
   color: black;
   text-transform: uppercase;
   border: 0;
